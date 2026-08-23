@@ -1,0 +1,52 @@
+{
+  "brand": "Kichler",
+  "manufacturer_name": "Kichler",
+  "series": "Barrington",
+  "product_type": "Bath Light",
+  "mfr_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+  "with_feature": "Clear Seeded Glass",
+  "certifications": [],
+  "classpath": "Home & Garden>Lighting>Light Fixtures>Vanity Lights",
+  "attributes": [
+    {
+      "label": "Width",
+      "value": "5.69",
+      "uom": "in",
+      "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+      "source_snippet": "Size:5.69\" W x 9\" H x 22\" L Model:37418A",
+      "confidence": "high"
+    },
+    {
+      "label": "Height",
+      "value": "9",
+      "uom": "in",
+      "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+      "source_snippet": "Size:5.69\" W x 9\" H x 22\" L Model:37418A",
+      "confidence": "high"
+    },
+    {
+      "label": "Length",
+      "value": "22",
+      "uom": "in",
+      "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+      "source_snippet": "Size:5.69\" W x 9\" H x 22\" L Model:37418A",
+      "confidence": "high"
+    },
+    {
+      "label": "Finish",
+      "value": "Distressed Black",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+      "source_snippet": "Finish:Distressed Black",
+      "confidence": "high"
+    },
+    {
+      "label": "Socket",
+      "value": "3 E26 (Medium)",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+      "source_snippet": "Socket: 3 E26 (Medium)",
+      "confidence": "high"
+    }
+  ]
+}

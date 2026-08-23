@@ -1,0 +1,68 @@
+{
+  "brand": "Kichler",
+  "manufacturer_name": "Kichler",
+  "series": "Mercer",
+  "product_type": "Outdoor Wall Light",
+  "mfr_url": "https://www.kichler.com/products/outdoor-lighting/outdoor-wall-lights/mercer-outdoor-wall-light-59061bsl",
+  "with_feature": "Dimmable",
+  "certifications": [],
+  "classpath": "Lighting>Outdoor Lighting>Outdoor Wall Lights",
+  "attributes": [
+    {
+      "label": "Width",
+      "value": "7",
+      "uom": "in",
+      "source_url": "https://www.kichler.com/products/outdoor-lighting/outdoor-wall-lights/mercer-outdoor-wall-light-59061bsl",
+      "source_snippet": "Size:7\" W x 16\" H x 8.5\" D",
+      "confidence": "high"
+    },
+    {
+      "label": "Height",
+      "value": "16",
+      "uom": "in",
+      "source_url": "https://www.kichler.com/products/outdoor-lighting/outdoor-wall-lights/mercer-outdoor-wall-light-59061bsl",
+      "source_snippet": "Size:7\" W x 16\" H x 8.5\" D",
+      "confidence": "high"
+    },
+    {
+      "label": "Depth",
+      "value": "8.5",
+      "uom": "in",
+      "source_url": "https://www.kichler.com/products/outdoor-lighting/outdoor-wall-lights/mercer-outdoor-wall-light-59061bsl",
+      "source_snippet": "Size:7\" W x 16\" H x 8.5\" D",
+      "confidence": "high"
+    },
+    {
+      "label": "Finish",
+      "value": "Black with Silver Highlights",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/outdoor-lighting/outdoor-wall-lights/mercer-outdoor-wall-light-59061bsl",
+      "source_snippet": "Finish:Black with Silver Highlights",
+      "confidence": "high"
+    },
+    {
+      "label": "Number of Lights",
+      "value": "1",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/outdoor-lighting/outdoor-wall-lights/mercer-outdoor-wall-light-59061bsl",
+      "source_snippet": "1-Light",
+      "confidence": "high"
+    },
+    {
+      "label": "Max Wattage",
+      "value": "100",
+      "uom": "W",
+      "source_url": "https://www.kichler.com/products/outdoor-lighting/outdoor-wall-lights/mercer-outdoor-wall-light-59061bsl",
+      "source_snippet": "Wattage: 100 W",
+      "confidence": "high"
+    },
+    {
+      "label": "Socket Type",
+      "value": "E26 (Medium)",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/outdoor-lighting/outdoor-wall-lights/mercer-outdoor-wall-light-59061bsl",
+      "source_snippet": "Socket: 1 E26 (Medium)",
+      "confidence": "high"
+    }
+  ]
+}

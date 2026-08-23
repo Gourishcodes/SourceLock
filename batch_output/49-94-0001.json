@@ -1,0 +1,124 @@
+{
+  "brand": "Milwaukee",
+  "manufacturer_name": "Milwaukee Tool",
+  "series": null,
+  "product_type": "Metal Cut Off Disc",
+  "mfr_url": "https://www.milwaukeetool.com/products/details/4-x-040-x-5-8-metal-cut-off-wheel-type-1/49-94-0001",
+  "with_feature": null,
+  "certifications": [],
+  "classpath": "Tools>Power Tool Accessories>Abrasives>Cut-Off Wheels",
+  "attributes": [
+    {
+      "label": "Application",
+      "value": "Cutting",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/4-x-040-x-5-8-metal-cut-off-wheel-type-1/49-94-0001",
+      "source_snippet": "Application\nCutting",
+      "confidence": "high"
+    },
+    {
+      "label": "Arbor Design",
+      "value": "Non- Threaded",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/4-x-040-x-5-8-metal-cut-off-wheel-type-1/49-94-0001",
+      "source_snippet": "Arbor Desgin\nNon- Threaded",
+      "confidence": "high"
+    },
+    {
+      "label": "Arbor Hole Diameter",
+      "value": "5/8",
+      "uom": "in",
+      "source_url": "https://www.milwaukeetool.com/products/details/4-x-040-x-5-8-metal-cut-off-wheel-type-1/49-94-0001",
+      "source_snippet": "Arbor Hole Diameter\n5/8 in",
+      "confidence": "high"
+    },
+    {
+      "label": "Diameter",
+      "value": "4",
+      "uom": "in",
+      "source_url": "https://www.milwaukeetool.com/products/details/4-x-040-x-5-8-metal-cut-off-wheel-type-1/49-94-0001",
+      "source_snippet": "Diameter\n4\"",
+      "confidence": "high"
+    },
+    {
+      "label": "Thickness",
+      "value": "0.040",
+      "uom": "in",
+      "source_url": "https://www.milwaukeetool.com/products/details/4-x-040-x-5-8-metal-cut-off-wheel-type-1/49-94-0001",
+      "source_snippet": "Thickness\n0.040 in",
+      "confidence": "high"
+    },
+    {
+      "label": "Material Application",
+      "value": "Metal, Stainless Steel, Steel",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/4-x-040-x-5-8-metal-cut-off-wheel-type-1/49-94-0001",
+      "source_snippet": "Material Application\nMetal, Stainless Steel, Steel",
+      "confidence": "high"
+    },
+    {
+      "label": "Max RPM",
+      "value": "15300",
+      "uom": "rpm",
+      "source_url": "https://www.milwaukeetool.com/products/details/4-x-040-x-5-8-metal-cut-off-wheel-type-1/49-94-0001",
+      "source_snippet": "Max RPM\n15300 rpm",
+      "confidence": "high"
+    },
+    {
+      "label": "Weight",
+      "value": "0.0619743914288889",
+      "uom": "lb",
+      "source_url": "https://www.milwaukeetool.com/products/details/4-x-040-x-5-8-metal-cut-off-wheel-type-1/49-94-0001",
+      "source_snippet": "Weight\n0.0619743914288889 lb",
+      "confidence": "high"
+    },
+    {
+      "label": "Pack Quantity",
+      "value": "25",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/4-x-040-x-5-8-metal-cut-off-wheel-type-1/49-94-0001",
+      "source_snippet": "Pack Quantity\n25",
+      "confidence": "high"
+    },
+    {
+      "label": "Performance Tier",
+      "value": "Metal Cut-Off",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/4-x-040-x-5-8-metal-cut-off-wheel-type-1/49-94-0001",
+      "source_snippet": "Performance Tier\nMetal Cut-Off",
+      "confidence": "high"
+    },
+    {
+      "label": "Reinforcement Sheets",
+      "value": "2",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/4-x-040-x-5-8-metal-cut-off-wheel-type-1/49-94-0001",
+      "source_snippet": "Reinforcement Sheets\n2",
+      "confidence": "high"
+    },
+    {
+      "label": "Shape",
+      "value": "1",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/4-x-040-x-5-8-metal-cut-off-wheel-type-1/49-94-0001",
+      "source_snippet": "Shape\n1",
+      "confidence": "high"
+    },
+    {
+      "label": "Type",
+      "value": "1",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/4-x-040-x-5-8-metal-cut-off-wheel-type-1/49-94-0001",
+      "source_snippet": "Type\n1",
+      "confidence": "high"
+    },
+    {
+      "label": "Warranty",
+      "value": "No Warranty",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/4-x-040-x-5-8-metal-cut-off-wheel-type-1/49-94-0001",
+      "source_snippet": "Warranty\nNo Warranty",
+      "confidence": "high"
+    }
+  ]
+}

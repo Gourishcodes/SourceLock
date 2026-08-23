@@ -1,0 +1,68 @@
+{
+  "brand": null,
+  "manufacturer_name": "Kichler",
+  "series": "Thoreau",
+  "product_type": "Ceiling Light",
+  "mfr_url": null,
+  "with_feature": null,
+  "certifications": [],
+  "classpath": "Lighting>Indoor Lighting>Flush Mount Lights>Semi-Flush Mount Ceiling Lights",
+  "attributes": [
+    {
+      "label": "Finish",
+      "value": "Black",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/indoor-lighting/flush-mount-lights/semi-flush-mount-ceiling-lights/thoreau-ceiling-light-42955bk",
+      "source_snippet": "Finish:Black",
+      "confidence": "high"
+    },
+    {
+      "label": "Height",
+      "value": "8.5",
+      "uom": "in",
+      "source_url": "https://www.kichler.com/products/indoor-lighting/flush-mount-lights/semi-flush-mount-ceiling-lights/thoreau-ceiling-light-42955bk",
+      "source_snippet": "Size:8.5\" H x 18\" DIA",
+      "confidence": "high"
+    },
+    {
+      "label": "Diameter",
+      "value": "18",
+      "uom": "in",
+      "source_url": "https://www.kichler.com/products/indoor-lighting/flush-mount-lights/semi-flush-mount-ceiling-lights/thoreau-ceiling-light-42955bk",
+      "source_snippet": "Size:8.5\" H x 18\" DIA",
+      "confidence": "high"
+    },
+    {
+      "label": "Number of Lights",
+      "value": "3",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/indoor-lighting/flush-mount-lights/semi-flush-mount-ceiling-lights/thoreau-ceiling-light-42955bk",
+      "source_snippet": "3-Light Clear Seeded Glass",
+      "confidence": "high"
+    },
+    {
+      "label": "Material",
+      "value": "Steel",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/indoor-lighting/flush-mount-lights/semi-flush-mount-ceiling-lights/thoreau-ceiling-light-42955bk",
+      "source_snippet": "Material: Steel",
+      "confidence": "high"
+    },
+    {
+      "label": "Socket",
+      "value": "E26 (Medium)",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/indoor-lighting/flush-mount-lights/semi-flush-mount-ceiling-lights/thoreau-ceiling-light-42955bk",
+      "source_snippet": "Socket: 3 E26 (Medium)",
+      "confidence": "high"
+    },
+    {
+      "label": "Wattage",
+      "value": "75",
+      "uom": "W",
+      "source_url": "https://www.kichler.com/products/indoor-lighting/flush-mount-lights/semi-flush-mount-ceiling-lights/thoreau-ceiling-light-42955bk",
+      "source_snippet": "Wattage: 75 W",
+      "confidence": "high"
+    }
+  ]
+}

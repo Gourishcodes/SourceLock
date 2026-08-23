@@ -1,0 +1,60 @@
+{
+  "brand": "Kichler",
+  "manufacturer_name": "Kichler",
+  "series": "Vara",
+  "product_type": "Chandelier",
+  "mfr_url": "https://www.kichler.com/products/indoor-lighting/chandeliers/1-tier-chandeliers/vara-chandelier-44072dbk",
+  "with_feature": null,
+  "certifications": [],
+  "classpath": "Lighting>Indoor Lighting>Chandeliers",
+  "attributes": [
+    {
+      "label": "Finish",
+      "value": "Distressed Black",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/indoor-lighting/chandeliers/1-tier-chandeliers/vara-chandelier-44072dbk",
+      "source_snippet": "Finish:Distressed Black",
+      "confidence": "high"
+    },
+    {
+      "label": "Size",
+      "value": "23.75\" H x 25.25\" DIA",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/indoor-lighting/chandeliers/1-tier-chandeliers/vara-chandelier-44072dbk",
+      "source_snippet": "Size:23.75\" H x 25.25\" DIA",
+      "confidence": "high"
+    },
+    {
+      "label": "Number of Lights",
+      "value": "5",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/indoor-lighting/chandeliers/1-tier-chandeliers/vara-chandelier-44072dbk",
+      "source_snippet": "5-Light Clear Seeded Glass",
+      "confidence": "high"
+    },
+    {
+      "label": "Max Hanging Height",
+      "value": "62",
+      "uom": "in",
+      "source_url": "https://www.kichler.com/products/indoor-lighting/chandeliers/1-tier-chandeliers/vara-chandelier-44072dbk",
+      "source_snippet": "Max Hanging Height: 62\"",
+      "confidence": "high"
+    },
+    {
+      "label": "Socket",
+      "value": "5 E12 (Candelabra)",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/indoor-lighting/chandeliers/1-tier-chandeliers/vara-chandelier-44072dbk",
+      "source_snippet": "Socket: 5 E12 (Candelabra)",
+      "confidence": "high"
+    },
+    {
+      "label": "Wattage",
+      "value": "60",
+      "uom": "W",
+      "source_url": "https://www.kichler.com/products/indoor-lighting/chandeliers/1-tier-chandeliers/vara-chandelier-44072dbk",
+      "source_snippet": "Wattage: 60 W",
+      "confidence": "high"
+    }
+  ]
+}

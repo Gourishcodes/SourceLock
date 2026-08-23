@@ -1,0 +1,134 @@
+{
+  "brand": "GE Profile",
+  "manufacturer_name": "GE Appliances",
+  "series": "GE Profile",
+  "product_type": "Dishwasher",
+  "mfr_url": "https://www.geappliances.com/appliance/GE-Profile-ENERGY-STAR-Fingerprint-Resistant-Top-Control-Stainless-Interior-Dishwasher-with-Microban-Antimicrobial-Technology-PDT715SYVFS",
+  "with_feature": null,
+  "certifications": [
+    "ENERGY STAR"
+  ],
+  "classpath": "Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers",
+  "attributes": [
+    {
+      "label": "Series",
+      "value": "GE Profile",
+      "uom": null,
+      "source_url": "https://www.geappliances.com/appliance/GE-Profile-ENERGY-STAR-Fingerprint-Resistant-Top-Control-Stainless-Interior-Dishwasher-with-Microban-Antimicrobial-Technology-PDT715SYVFS",
+      "source_snippet": "GE Profile\u2122 ENERGY STAR\u00ae Fingerprint Resistant Top Control Stainless Interior Dishwasher with Microban\u2122 Antimicrobial Technology",
+      "confidence": "high"
+    },
+    {
+      "label": "Model",
+      "value": "PDT715SYVFS",
+      "uom": null,
+      "source_url": "https://www.geappliances.com/appliance/GE-Profile-ENERGY-STAR-Fingerprint-Resistant-Top-Control-Stainless-Interior-Dishwasher-with-Microban-Antimicrobial-Technology-PDT715SYVFS",
+      "source_snippet": "Model #:\nPDT715SYVFS",
+      "confidence": "high"
+    },
+    {
+      "label": "Number of Wash Cycles",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Voltage Rating",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Amperage Rating",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Mounting Type",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Plug Type",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Size",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Depth With Door Open",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Minimum Height",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Maximum Height",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Sound Level",
+      "value": "44",
+      "uom": "dBA",
+      "source_url": "https://www.geappliances.com/appliance/GE-Profile-ENERGY-STAR-Fingerprint-Resistant-Top-Control-Stainless-Interior-Dishwasher-with-Microban-Antimicrobial-Technology-PDT715SYVFS",
+      "source_snippet": "44 dBA Dishwasher",
+      "confidence": "high"
+    },
+    {
+      "label": "Material",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Color",
+      "value": "Fingerprint Resistant Stainless",
+      "uom": null,
+      "source_url": "https://www.geappliances.com/appliance/GE-Profile-ENERGY-STAR-Fingerprint-Resistant-Top-Control-Stainless-Interior-Dishwasher-with-Microban-Antimicrobial-Technology-PDT715SYVFS",
+      "source_snippet": "Color: Fingerprint Resistant Stainless",
+      "confidence": "high"
+    },
+    {
+      "label": "Additional Information",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    }
+  ]
+}

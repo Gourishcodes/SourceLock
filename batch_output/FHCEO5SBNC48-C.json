@@ -1,0 +1,70 @@
+{
+  "brand": "Havells",
+  "manufacturer_name": "Havells India Ltd.",
+  "series": "Efficiencia DX",
+  "product_type": "Ceiling Fan",
+  "mfr_url": "https://havells.com/fans/fhceo5sbnc48-c.html",
+  "with_feature": null,
+  "certifications": [
+    "5 Star"
+  ],
+  "classpath": "Home Appliances>Fans>Ceiling Fans",
+  "attributes": [
+    {
+      "label": "Motor Type",
+      "value": "BLDC",
+      "uom": null,
+      "source_url": "https://havells.com/fans/fhceo5sbnc48-c.html",
+      "source_snippet": "Motor Type\n\n  BLDC",
+      "confidence": "high"
+    },
+    {
+      "label": "Rated Speed",
+      "value": "350",
+      "uom": "revolution per minute",
+      "source_url": "https://havells.com/fans/fhceo5sbnc48-c.html",
+      "source_snippet": "Rated Speed\n\n  350 revolution per minute",
+      "confidence": "high"
+    },
+    {
+      "label": "Air Delivery",
+      "value": "225",
+      "uom": "m\u00b3/min",
+      "source_url": "https://havells.com/fans/fhceo5sbnc48-c.html",
+      "source_snippet": "Air Delivery\n\n  225 m\u00b3/min",
+      "confidence": "high"
+    },
+    {
+      "label": "Power Consumption",
+      "value": "30",
+      "uom": "W",
+      "source_url": "https://havells.com/fans/fhceo5sbnc48-c.html",
+      "source_snippet": "Power Consumption\n\n  30 W",
+      "confidence": "high"
+    },
+    {
+      "label": "Rated Voltage",
+      "value": "220 - 240",
+      "uom": "V",
+      "source_url": "https://havells.com/fans/fhceo5sbnc48-c.html",
+      "source_snippet": "Rated Voltage\n\n  220 V - 240 V",
+      "confidence": "high"
+    },
+    {
+      "label": "Guarantee",
+      "value": "2",
+      "uom": "Year",
+      "source_url": "https://havells.com/fans/fhceo5sbnc48-c.html",
+      "source_snippet": "Guarantee\n\n  2 Year",
+      "confidence": "high"
+    },
+    {
+      "label": "Star Rating",
+      "value": "5",
+      "uom": "Star",
+      "source_url": "https://havells.com/fans/fhceo5sbnc48-c.html",
+      "source_snippet": "Star Rating\n\n  5 Star",
+      "confidence": "high"
+    }
+  ]
+}
