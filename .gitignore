@@ -1,0 +1,19 @@
+# Python virtual environment - never commit this, it's regenerated
+# from requirements.txt on any machine with `pip install -r requirements.txt`
+.venv/
+venv/
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# Real secrets - your actual API keys live here. NEVER push this file.
+# .env.example (the placeholder version) is safe and should stay tracked.
+.env
+
+# Streamlit's own local secrets file, if you ever add one
+.streamlit/secrets.toml
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db

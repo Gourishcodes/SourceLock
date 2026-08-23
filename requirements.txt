@@ -1,0 +1,6 @@
+tavily-python
+google-genai
+pydantic
+python-dotenv
+playwright
+streamlit
