@@ -20,9 +20,19 @@ from pathlib import Path
 from dotenv import load_dotenv
 import streamlit as st
 
-load_dotenv(dotenv_path=Path(__file__).parent / ".env", encoding="utf-8-sig")
-
-st.set_page_config(page_title="Unilog Enrichment Audit", page_icon="\U0001F50D", layout="wide")
+# Streamlit Cloud has no .env file (gitignored on purpose - never commit
+# real keys). It has its own separate secrets store instead, filled in
+# via the app dashboard (Settings -> Secrets), exposed to Python as
+# st.secrets - NOT automatically merged into os.environ. Every other
+# module in this pipeline (retrieval.py, extraction.py, classification.py)
+# reads keys via os.environ[...], so we bridge the two here, once, at
+# startup - "if it's not already set locally via .env, but IS available
+# in Streamlit's secrets, copy it into os.environ" - this way the exact
+# same os.environ.get(...) code works unchanged whether we're running on
+# your laptop (.env) or on Streamlit Cloud (st.secrets).
+for _key in ("TAVILY_API_KEY", "GEMINI_API_KEY"):
+    if not os.environ.get(_key) and _key in st.secrets:
+        os.environ[_key] = st.secrets[_key]
 
 # ---------------------------------------------------------------------------
 # Design: spec-sheet / blueprint aesthetic, not the generic cream+terracotta
