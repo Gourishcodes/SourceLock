@@ -1,0 +1,134 @@
+{
+  "brand": "KitchenAid",
+  "manufacturer_name": "KitchenAid",
+  "series": null,
+  "product_type": "Dishwasher",
+  "mfr_url": "https://www.kitchenaid.com/major-appliances/dishwashers/integrated-control/p.kitchenaid-360%C2%B0-max-jets-third-rack-dishwasher-with-prodry-system-44-dba.kdts424sbe.html",
+  "with_feature": null,
+  "certifications": [
+    "Energy Star"
+  ],
+  "classpath": "Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers",
+  "attributes": [
+    {
+      "label": "Series",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Model",
+      "value": "KDTS424SBE",
+      "uom": null,
+      "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/integrated-control/p.kitchenaid-360%C2%B0-max-jets-third-rack-dishwasher-with-prodry-system-44-dba.kdts424sbe.html",
+      "source_snippet": "kdts424sbe",
+      "confidence": "low"
+    },
+    {
+      "label": "Number of Wash Cycles",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Voltage Rating",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Amperage Rating",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Mounting Type",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Plug Type",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Size",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Depth With Door Open",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Minimum Height",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Maximum Height",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Sound Level",
+      "value": "44",
+      "uom": "dBA",
+      "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/integrated-control/p.kitchenaid-360%C2%B0-max-jets-third-rack-dishwasher-with-prodry-system-44-dba.kdts424sbe.html",
+      "source_snippet": "Quiet Cleaning at 44 dBA",
+      "confidence": "high"
+    },
+    {
+      "label": "Material",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Color",
+      "value": "Black Ore",
+      "uom": null,
+      "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/integrated-control/p.kitchenaid-360%C2%B0-max-jets-third-rack-dishwasher-with-prodry-system-44-dba.kdts424sbe.html",
+      "source_snippet": "Black Ore",
+      "confidence": "high"
+    },
+    {
+      "label": "Additional Information",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    }
+  ]
+}

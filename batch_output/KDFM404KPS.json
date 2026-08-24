@@ -1,0 +1,132 @@
+{
+  "brand": "KitchenAid",
+  "manufacturer_name": "KitchenAid",
+  "series": null,
+  "product_type": "Dishwasher",
+  "mfr_url": null,
+  "with_feature": null,
+  "certifications": [],
+  "classpath": "Appliances & Consumer Electronics > Kitchen Appliances > Dishwashers",
+  "attributes": [
+    {
+      "label": "Series",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Model",
+      "value": "KDFM404KPS",
+      "uom": null,
+      "source_url": "https://stories.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360%C2%B0-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html",
+      "source_snippet": "Model: KDFM404KPS",
+      "confidence": "high"
+    },
+    {
+      "label": "Number of Wash Cycles",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Voltage Rating",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Amperage Rating",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Mounting Type",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Plug Type",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Size",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Depth With Door Open",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Minimum Height",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Maximum Height",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Sound Level",
+      "value": "44",
+      "uom": "dBA",
+      "source_url": "https://stories.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360%C2%B0-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html",
+      "source_snippet": "44 dBA",
+      "confidence": "high"
+    },
+    {
+      "label": "Material",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Color",
+      "value": "Stainless Steel",
+      "uom": null,
+      "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.pdpv5.KDFM404KPS.html?bvstate=pg%3A9%2Fct%3Ar",
+      "source_snippet": "Stainless Steel with PrintShield\u2122 Finish",
+      "confidence": "high"
+    },
+    {
+      "label": "Additional Information",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "brand": "Milwaukee",
+  "manufacturer_name": "Milwaukee Tool",
+  "series": null,
+  "product_type": "Metal Cut Off Disc",
+  "mfr_url": "https://www.milwaukeetool.com/products/details/9-x-3-32-x-7-8-metal-cut-off-wheel-type-1/49-94-0043",
+  "with_feature": null,
+  "certifications": [],
+  "classpath": "Tools>Accessories>Abrasives>Cut Off Wheels",
+  "attributes": [
+    {
+      "label": "Application",
+      "value": "Cutting",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/9-x-3-32-x-7-8-metal-cut-off-wheel-type-1/49-94-0043",
+      "source_snippet": "Application\nCutting",
+      "confidence": "high"
+    },
+    {
+      "label": "Arbor Design",
+      "value": "Non- Threaded",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/9-x-3-32-x-7-8-metal-cut-off-wheel-type-1/49-94-0043",
+      "source_snippet": "Arbor Desgin\nNon- Threaded",
+      "confidence": "high"
+    },
+    {
+      "label": "Arbor Hole Diameter",
+      "value": "7/8",
+      "uom": "in",
+      "source_url": "https://www.milwaukeetool.com/products/details/9-x-3-32-x-7-8-metal-cut-off-wheel-type-1/49-94-0043",
+      "source_snippet": "Arbor Hole Diameter\n7/8 in",
+      "confidence": "high"
+    },
+    {
+      "label": "Diameter",
+      "value": "9",
+      "uom": "\"",
+      "source_url": "https://www.milwaukeetool.com/products/details/9-x-3-32-x-7-8-metal-cut-off-wheel-type-1/49-94-0043",
+      "source_snippet": "Diameter: 9\"",
+      "confidence": "high"
+    },
+    {
+      "label": "Thickness",
+      "value": "3/32",
+      "uom": "in",
+      "source_url": "https://www.milwaukeetool.com/products/details/9-x-3-32-x-7-8-metal-cut-off-wheel-type-1/49-94-0043",
+      "source_snippet": "Thickness: 3/32 in",
+      "confidence": "high"
+    },
+    {
+      "label": "Material Application",
+      "value": "Metal, Stainless Steel, Steel",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/9-x-3-32-x-7-8-metal-cut-off-wheel-type-1/49-94-0043",
+      "source_snippet": "Material Application\nMetal, Stainless Steel, Steel",
+      "confidence": "high"
+    },
+    {
+      "label": "Max RPM",
+      "value": "6650",
+      "uom": "rpm",
+      "source_url": "https://www.milwaukeetool.com/products/details/9-x-3-32-x-7-8-metal-cut-off-wheel-type-1/49-94-0043",
+      "source_snippet": "Max RPM\n6650 rpm",
+      "confidence": "high"
+    },
+    {
+      "label": "Weight",
+      "value": "0.641104257896",
+      "uom": "lb",
+      "source_url": "https://www.milwaukeetool.com/products/details/9-x-3-32-x-7-8-metal-cut-off-wheel-type-1/49-94-0043",
+      "source_snippet": "Weight\n0.641104257896 lb",
+      "confidence": "high"
+    },
+    {
+      "label": "Pack Quantity",
+      "value": "10",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/9-x-3-32-x-7-8-metal-cut-off-wheel-type-1/49-94-0043",
+      "source_snippet": "Pack Quantity: 10",
+      "confidence": "high"
+    },
+    {
+      "label": "Performance Tier",
+      "value": "Metal Cut-Off",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/9-x-3-32-x-7-8-metal-cut-off-wheel-type-1/49-94-0043",
+      "source_snippet": "Performance Tier\nMetal Cut-Off",
+      "confidence": "high"
+    },
+    {
+      "label": "Reinforcement Sheets",
+      "value": "2",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/9-x-3-32-x-7-8-metal-cut-off-wheel-type-1/49-94-0043",
+      "source_snippet": "Reinforcement Sheets\n2",
+      "confidence": "high"
+    },
+    {
+      "label": "Shape",
+      "value": "1",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/9-x-3-32-x-7-8-metal-cut-off-wheel-type-1/49-94-0043",
+      "source_snippet": "Shape\n1",
+      "confidence": "high"
+    },
+    {
+      "label": "Type",
+      "value": "1",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/9-x-3-32-x-7-8-metal-cut-off-wheel-type-1/49-94-0043",
+      "source_snippet": "Type: 1",
+      "confidence": "high"
+    },
+    {
+      "label": "Warranty",
+      "value": "No Warranty",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/9-x-3-32-x-7-8-metal-cut-off-wheel-type-1/49-94-0043",
+      "source_snippet": "Warranty\nNo Warranty",
+      "confidence": "high"
+    }
+  ]
+}

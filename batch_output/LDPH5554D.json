@@ -1,0 +1,132 @@
+{
+  "brand": "LG",
+  "manufacturer_name": "LG",
+  "series": null,
+  "product_type": "Dishwashers",
+  "mfr_url": "https://www.lg.com/ca_en/dishwashers/top-control/ldph5554d",
+  "with_feature": null,
+  "certifications": [],
+  "classpath": "Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers",
+  "attributes": [
+    {
+      "label": "Series",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Model",
+      "value": "LDPH5554D",
+      "uom": null,
+      "source_url": "https://www.lg.com/ca_en/dishwashers/top-control/ldph5554d",
+      "source_snippet": "LDPH5554D",
+      "confidence": "high"
+    },
+    {
+      "label": "Number of Wash Cycles",
+      "value": "6",
+      "uom": null,
+      "source_url": "https://www.lg.com/ca_en/dishwashers/top-control/ldph5554d",
+      "source_snippet": "Number of Wash Cycles (Program)\n\n6",
+      "confidence": "high"
+    },
+    {
+      "label": "Voltage Rating",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Amperage Rating",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Mounting Type",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Plug Type",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Size",
+      "value": "24",
+      "uom": "inch",
+      "source_url": "https://www.lg.com/us/dishwashers/lg-ldph5554d-top-control-dishwasher",
+      "source_snippet": "24 Inch Smart Top-Control Dishwasher",
+      "confidence": "high"
+    },
+    {
+      "label": "Depth With Door Open",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Minimum Height",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Maximum Height",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Sound Level",
+      "value": "46",
+      "uom": "dB",
+      "source_url": "https://www.lg.com/ca_en/dishwashers/top-control/ldph5554d",
+      "source_snippet": "46 dB",
+      "confidence": "high"
+    },
+    {
+      "label": "Material",
+      "value": "NeveRust\u2122 Stainless Steel",
+      "uom": null,
+      "source_url": "https://www.lg.com/ca_en/dishwashers/top-control/ldph5554d",
+      "source_snippet": "NeveRust\u2122 Stainless Steel",
+      "confidence": "high"
+    },
+    {
+      "label": "Color",
+      "value": "Black Stainless",
+      "uom": null,
+      "source_url": "https://www.lg.com/ca_en/dishwashers/top-control/ldph5554d",
+      "source_snippet": "Black Stainless, LG Dishwasher LDPH5554D",
+      "confidence": "high"
+    },
+    {
+      "label": "Additional Information",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    }
+  ]
+}

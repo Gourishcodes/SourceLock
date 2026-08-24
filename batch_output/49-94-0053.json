@@ -1,0 +1,124 @@
+{
+  "brand": "Milwaukee",
+  "manufacturer_name": "Milwaukee",
+  "series": null,
+  "product_type": "Metal Cut Off Disc",
+  "mfr_url": "https://www.milwaukeetool.com/products/details/12-x-1-8-x-1-metal-cut-off-wheel-type-1/49-94-0053",
+  "with_feature": null,
+  "certifications": [],
+  "classpath": "Tools>Power Tool Accessories>Abrasive Wheels>Cut-Off Wheels",
+  "attributes": [
+    {
+      "label": "Application",
+      "value": "Cutting",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/12-x-1-8-x-1-metal-cut-off-wheel-type-1/49-94-0053",
+      "source_snippet": "Application\nCutting",
+      "confidence": "high"
+    },
+    {
+      "label": "Arbor Design",
+      "value": "Non- Threaded",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/12-x-1-8-x-1-metal-cut-off-wheel-type-1/49-94-0053",
+      "source_snippet": "Arbor Desgin\nNon- Threaded",
+      "confidence": "high"
+    },
+    {
+      "label": "Arbor Hole Diameter",
+      "value": "1",
+      "uom": "in",
+      "source_url": "https://www.milwaukeetool.com/products/details/12-x-1-8-x-1-metal-cut-off-wheel-type-1/49-94-0053",
+      "source_snippet": "Arbor Hole Diameter\n1 in",
+      "confidence": "high"
+    },
+    {
+      "label": "Diameter",
+      "value": "12",
+      "uom": "in",
+      "source_url": "https://www.milwaukeetool.com/products/details/12-x-1-8-x-1-metal-cut-off-wheel-type-1/49-94-0053",
+      "source_snippet": "Diameter: 12\"",
+      "confidence": "high"
+    },
+    {
+      "label": "Thickness",
+      "value": "1/8",
+      "uom": "in",
+      "source_url": "https://www.milwaukeetool.com/products/details/12-x-1-8-x-1-metal-cut-off-wheel-type-1/49-94-0053",
+      "source_snippet": "Thickness: 1/8 in",
+      "confidence": "high"
+    },
+    {
+      "label": "Material Application",
+      "value": "Metal, Stainless Steel, Steel",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/12-x-1-8-x-1-metal-cut-off-wheel-type-1/49-94-0053",
+      "source_snippet": "Material Application\nMetal, Stainless Steel, Steel",
+      "confidence": "high"
+    },
+    {
+      "label": "Max RPM",
+      "value": "6400",
+      "uom": "rpm",
+      "source_url": "https://www.milwaukeetool.com/products/details/12-x-1-8-x-1-metal-cut-off-wheel-type-1/49-94-0053",
+      "source_snippet": "Max RPM\n6400 rpm",
+      "confidence": "high"
+    },
+    {
+      "label": "Weight",
+      "value": "1.702630049426",
+      "uom": "lb",
+      "source_url": "https://www.milwaukeetool.com/products/details/12-x-1-8-x-1-metal-cut-off-wheel-type-1/49-94-0053",
+      "source_snippet": "Weight\n1.702630049426 lb",
+      "confidence": "high"
+    },
+    {
+      "label": "Pack Quantity",
+      "value": "10",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/12-x-1-8-x-1-metal-cut-off-wheel-type-1/49-94-0053",
+      "source_snippet": "Pack Quantity\n10",
+      "confidence": "high"
+    },
+    {
+      "label": "Performance Tier",
+      "value": "Metal Cut-Off",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/12-x-1-8-x-1-metal-cut-off-wheel-type-1/49-94-0053",
+      "source_snippet": "Performance Tier\nMetal Cut-Off",
+      "confidence": "high"
+    },
+    {
+      "label": "Reinforcement Sheets",
+      "value": "3",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/12-x-1-8-x-1-metal-cut-off-wheel-type-1/49-94-0053",
+      "source_snippet": "Reinforcement Sheets\n3",
+      "confidence": "high"
+    },
+    {
+      "label": "Shape",
+      "value": "1",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/12-x-1-8-x-1-metal-cut-off-wheel-type-1/49-94-0053",
+      "source_snippet": "Shape\n1",
+      "confidence": "high"
+    },
+    {
+      "label": "Type",
+      "value": "1",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/12-x-1-8-x-1-metal-cut-off-wheel-type-1/49-94-0053",
+      "source_snippet": "Type\n1",
+      "confidence": "high"
+    },
+    {
+      "label": "Warranty",
+      "value": "No Warranty",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/12-x-1-8-x-1-metal-cut-off-wheel-type-1/49-94-0053",
+      "source_snippet": "Warranty\nNo Warranty",
+      "confidence": "high"
+    }
+  ]
+}

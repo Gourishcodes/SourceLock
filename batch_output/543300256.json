@@ -1,0 +1,44 @@
+{
+  "brand": "Trex",
+  "manufacturer_name": null,
+  "series": "Select",
+  "product_type": "Horizontal Railing Kit",
+  "mfr_url": null,
+  "with_feature": null,
+  "certifications": [],
+  "classpath": "Building Materials>Railing>Railing Kits",
+  "attributes": [
+    {
+      "label": "Weight",
+      "value": "16.1",
+      "uom": "lbs",
+      "source_url": "https://www.trex.com/products/railing/select/6-x-36--rail-baluster-kit-horizontal",
+      "source_snippet": "Weight(lbs) | 16.1",
+      "confidence": "high"
+    },
+    {
+      "label": "Width",
+      "value": "7.88",
+      "uom": "Inches",
+      "source_url": "https://www.trex.com/products/railing/select/6-x-36--rail-baluster-kit-horizontal",
+      "source_snippet": "Width(Inches) | 7.88",
+      "confidence": "high"
+    },
+    {
+      "label": "Height",
+      "value": "3",
+      "uom": "Inches",
+      "source_url": "https://www.trex.com/products/railing/select/6-x-36--rail-baluster-kit-horizontal",
+      "source_snippet": "Height(Inches) | 3",
+      "confidence": "high"
+    },
+    {
+      "label": "Length",
+      "value": "74.75",
+      "uom": "Inches",
+      "source_url": "https://www.trex.com/products/railing/select/6-x-36--rail-baluster-kit-horizontal",
+      "source_snippet": "Length(Inches) | 74.75",
+      "confidence": "high"
+    }
+  ]
+}

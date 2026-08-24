@@ -1,0 +1,124 @@
+{
+  "brand": "Milwaukee",
+  "manufacturer_name": "Milwaukee Tool",
+  "series": null,
+  "product_type": "Metal Cut-Off Disc",
+  "mfr_url": "https://www.milwaukeetool.com/products/details/7-x-1-16-x-7-8-metal-cut-off-wheel-type-1/49-94-0033",
+  "with_feature": null,
+  "certifications": [],
+  "classpath": "Accessories>Abrasives>Cut Off Wheels",
+  "attributes": [
+    {
+      "label": "Application",
+      "value": "Cutting",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/7-x-1-16-x-7-8-metal-cut-off-wheel-type-1/49-94-0033",
+      "source_snippet": "Application\nCutting",
+      "confidence": "high"
+    },
+    {
+      "label": "Arbor Design",
+      "value": "Non- Threaded",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/7-x-1-16-x-7-8-metal-cut-off-wheel-type-1/49-94-0033",
+      "source_snippet": "Arbor Desgin\nNon- Threaded",
+      "confidence": "high"
+    },
+    {
+      "label": "Arbor Hole Diameter",
+      "value": "7/8",
+      "uom": "in",
+      "source_url": "https://www.milwaukeetool.com/products/details/7-x-1-16-x-7-8-metal-cut-off-wheel-type-1/49-94-0033",
+      "source_snippet": "Arbor Hole Diameter\n7/8 in",
+      "confidence": "high"
+    },
+    {
+      "label": "Diameter",
+      "value": "7",
+      "uom": "\"",
+      "source_url": "https://www.milwaukeetool.com/products/details/7-x-1-16-x-7-8-metal-cut-off-wheel-type-1/49-94-0033",
+      "source_snippet": "Diameter\n7\"",
+      "confidence": "high"
+    },
+    {
+      "label": "Thickness",
+      "value": "1/16",
+      "uom": "in",
+      "source_url": "https://www.milwaukeetool.com/products/details/7-x-1-16-x-7-8-metal-cut-off-wheel-type-1/49-94-0033",
+      "source_snippet": "Thickness\n1/16 in",
+      "confidence": "high"
+    },
+    {
+      "label": "Material Application",
+      "value": "Metal, Stainless Steel, Steel",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/7-x-1-16-x-7-8-metal-cut-off-wheel-type-1/49-94-0033",
+      "source_snippet": "Material Application\nMetal, Stainless Steel, Steel",
+      "confidence": "high"
+    },
+    {
+      "label": "Max RPM",
+      "value": "8600",
+      "uom": "rpm",
+      "source_url": "https://www.milwaukeetool.com/products/details/7-x-1-16-x-7-8-metal-cut-off-wheel-type-1/49-94-0033",
+      "source_snippet": "Max RPM\n8600 rpm",
+      "confidence": "high"
+    },
+    {
+      "label": "Weight",
+      "value": "0.221197136206667",
+      "uom": "lb",
+      "source_url": "https://www.milwaukeetool.com/products/details/7-x-1-16-x-7-8-metal-cut-off-wheel-type-1/49-94-0033",
+      "source_snippet": "Weight\n0.221197136206667 lb",
+      "confidence": "high"
+    },
+    {
+      "label": "Pack Quantity",
+      "value": "25",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/7-x-1-16-x-7-8-metal-cut-off-wheel-type-1/49-94-0033",
+      "source_snippet": "Pack Quantity\n25",
+      "confidence": "high"
+    },
+    {
+      "label": "Performance Tier",
+      "value": "Metal Cut-Off",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/7-x-1-16-x-7-8-metal-cut-off-wheel-type-1/49-94-0033",
+      "source_snippet": "Performance Tier\nMetal Cut-Off",
+      "confidence": "high"
+    },
+    {
+      "label": "Reinforcement Sheets",
+      "value": "2",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/7-x-1-16-x-7-8-metal-cut-off-wheel-type-1/49-94-0033",
+      "source_snippet": "Reinforcement Sheets\n2",
+      "confidence": "high"
+    },
+    {
+      "label": "Shape",
+      "value": "1",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/7-x-1-16-x-7-8-metal-cut-off-wheel-type-1/49-94-0033",
+      "source_snippet": "Shape\n1",
+      "confidence": "high"
+    },
+    {
+      "label": "Type",
+      "value": "1",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/7-x-1-16-x-7-8-metal-cut-off-wheel-type-1/49-94-0033",
+      "source_snippet": "Type\n1",
+      "confidence": "high"
+    },
+    {
+      "label": "Warranty",
+      "value": "No Warranty",
+      "uom": null,
+      "source_url": "https://www.milwaukeetool.com/products/details/7-x-1-16-x-7-8-metal-cut-off-wheel-type-1/49-94-0033",
+      "source_snippet": "Warranty\nNo Warranty",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "brand": "Kichler",
+  "manufacturer_name": "Kichler",
+  "series": "Avery",
+  "product_type": "light fixture",
+  "mfr_url": "https://www.kichler.com/products/indoor-lighting/flush-mount-lights/flush-mount-ceiling-lights/avery-flush-mount-43913bk",
+  "with_feature": null,
+  "certifications": [],
+  "classpath": "Lighting>Ceiling Lighting>Flush Mount Ceiling Lights",
+  "attributes": [
+    {
+      "label": "Dimensions",
+      "value": "13.5\" H x 14.5\" DIA",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/indoor-lighting/flush-mount-lights/flush-mount-ceiling-lights/avery-flush-mount-43913bk",
+      "source_snippet": "Size:13.5\" H x 14.5\" DIA Model:43913BK",
+      "confidence": "high"
+    },
+    {
+      "label": "Finish",
+      "value": "Black",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/indoor-lighting/flush-mount-lights/flush-mount-ceiling-lights/avery-flush-mount-43913bk",
+      "source_snippet": "Finish:Black",
+      "confidence": "high"
+    },
+    {
+      "label": "Socket",
+      "value": "1 E26 (Medium)",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/indoor-lighting/flush-mount-lights/flush-mount-ceiling-lights/avery-flush-mount-43913bk",
+      "source_snippet": "Socket: 1 E26 (Medium)",
+      "confidence": "high"
+    },
+    {
+      "label": "Wattage",
+      "value": "100",
+      "uom": "W",
+      "source_url": "https://www.kichler.com/products/indoor-lighting/flush-mount-lights/flush-mount-ceiling-lights/avery-flush-mount-43913bk",
+      "source_snippet": "Wattage: 100 W",
+      "confidence": "high"
+    },
+    {
+      "label": "Material",
+      "value": "Steel",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/indoor-lighting/flush-mount-lights/flush-mount-ceiling-lights/avery-flush-mount-43913bk",
+      "source_snippet": "Material: Steel",
+      "confidence": "high"
+    },
+    {
+      "label": "Wire Length",
+      "value": "6",
+      "uom": "\"",
+      "source_url": "https://www.kichler.com/products/indoor-lighting/flush-mount-lights/flush-mount-ceiling-lights/avery-flush-mount-43913bk",
+      "source_snippet": "Wire Length: 6\"",
+      "confidence": "high"
+    }
+  ]
+}

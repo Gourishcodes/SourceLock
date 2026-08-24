@@ -1,0 +1,134 @@
+{
+  "brand": "GE Profile",
+  "manufacturer_name": "GE Appliances",
+  "series": "GE Profile",
+  "product_type": "Dishwasher",
+  "mfr_url": "https://www.geappliances.com/appliance/GE-Profile-Dishwasher-Double-Drawer-PDD415PYYFS",
+  "with_feature": null,
+  "certifications": [
+    "ENERGY STAR"
+  ],
+  "classpath": "Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers",
+  "attributes": [
+    {
+      "label": "Series",
+      "value": "GE Profile",
+      "uom": null,
+      "source_url": "https://www.geappliances.com/appliance/GE-Profile-Dishwasher-Double-Drawer-PDD415PYYFS",
+      "source_snippet": "GE PROFILE",
+      "confidence": "high"
+    },
+    {
+      "label": "Model",
+      "value": "PDD415PYYFS",
+      "uom": null,
+      "source_url": "https://www.geappliances.com/appliance/GE-Profile-Dishwasher-Double-Drawer-PDD415PYYFS",
+      "source_snippet": "PDD415PYYFS",
+      "confidence": "high"
+    },
+    {
+      "label": "Number of Wash Cycles",
+      "value": "6",
+      "uom": null,
+      "source_url": "https://www.geappliances.com/appliance/GE-Profile-Dishwasher-Double-Drawer-PDD415PYYFS",
+      "source_snippet": "six Wash Cycles",
+      "confidence": "high"
+    },
+    {
+      "label": "Voltage Rating",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Amperage Rating",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Mounting Type",
+      "value": "Built In",
+      "uom": null,
+      "source_url": "https://www.geappliances.com/appliance/GE-Profile-Dishwasher-Double-Drawer-PDD415PYYFS",
+      "source_snippet": "Built In Dishwashers",
+      "confidence": "high"
+    },
+    {
+      "label": "Plug Type",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Size",
+      "value": "24",
+      "uom": "in",
+      "source_url": "https://www.geappliances.com/appliance/GE-Profile-Dishwasher-Double-Drawer-PDD415PYYFS",
+      "source_snippet": "Fits a Standard 24\" Dishwasher Cabinet",
+      "confidence": "high"
+    },
+    {
+      "label": "Depth With Door Open",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Minimum Height",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Maximum Height",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Sound Level",
+      "value": "45",
+      "uom": "dBA",
+      "source_url": "https://www.geappliances.com/appliance/GE-Profile-Dishwasher-Double-Drawer-PDD415PYYFS",
+      "source_snippet": "super quiet 45 dBA operation",
+      "confidence": "high"
+    },
+    {
+      "label": "Material",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Color",
+      "value": "Fingerprint Resistant Stainless",
+      "uom": null,
+      "source_url": "https://www.geappliances.com/appliance/GE-Profile-Dishwasher-Double-Drawer-PDD415PYYFS",
+      "source_snippet": "Color: Fingerprint Resistant Stainless",
+      "confidence": "high"
+    },
+    {
+      "label": "Additional Information",
+      "value": "Dimensions: 34 H x 23.8125 W x 22.562 D",
+      "uom": null,
+      "source_url": "https://www.geappliances.com/appliance/GE-Profile-Dishwasher-Double-Drawer-PDD415PYYFS",
+      "source_snippet": "Dimensions: 34 H x 23.8125 W x 22.562 D",
+      "confidence": "high"
+    }
+  ]
+}

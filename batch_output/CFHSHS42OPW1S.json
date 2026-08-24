@@ -1,0 +1,68 @@
+{
+  "brand": "Crompton",
+  "manufacturer_name": "Crompton Greaves Consumer Electricals Limited",
+  "series": "High Speed HS Star Rated",
+  "product_type": "Ceiling Fan",
+  "mfr_url": null,
+  "with_feature": null,
+  "certifications": [],
+  "classpath": "Home & Kitchen>Heating, Cooling & Air Quality>Household Fans>Ceiling Fans",
+  "attributes": [
+    {
+      "label": "Speed",
+      "value": "370",
+      "uom": "RPM",
+      "source_url": "https://www.crompton.co.in/products/crompton-high-speed-hs-star-rated-ceiling-fan",
+      "source_snippet": "Speed | 370 RPM |",
+      "confidence": "high"
+    },
+    {
+      "label": "Number of Blades",
+      "value": "3",
+      "uom": null,
+      "source_url": "https://www.crompton.co.in/products/crompton-high-speed-hs-star-rated-ceiling-fan",
+      "source_snippet": "Number of Blades | 3 |",
+      "confidence": "high"
+    },
+    {
+      "label": "Wattage",
+      "value": "56",
+      "uom": "Watt",
+      "source_url": "https://www.crompton.co.in/products/crompton-high-speed-hs-star-rated-ceiling-fan",
+      "source_snippet": "Wattage | 56 Watt |",
+      "confidence": "high"
+    },
+    {
+      "label": "Voltage",
+      "value": "230",
+      "uom": "Volt",
+      "source_url": "https://www.crompton.co.in/products/crompton-high-speed-hs-star-rated-ceiling-fan",
+      "source_snippet": "Voltage | 230 Volt |",
+      "confidence": "high"
+    },
+    {
+      "label": "Color",
+      "value": "Opal White",
+      "uom": null,
+      "source_url": "https://www.crompton.co.in/products/crompton-high-speed-hs-star-rated-ceiling-fan",
+      "source_snippet": "Color | Opal White |",
+      "confidence": "high"
+    },
+    {
+      "label": "Blade Length",
+      "value": "1050",
+      "uom": "Millimetre",
+      "source_url": "https://www.crompton.co.in/products/crompton-high-speed-hs-star-rated-ceiling-fan",
+      "source_snippet": "Blade Length | 1050 Millimetre |",
+      "confidence": "high"
+    },
+    {
+      "label": "Air Flow Capacity",
+      "value": "180",
+      "uom": "Cubic Meters Per Minute",
+      "source_url": "https://www.crompton.co.in/products/crompton-high-speed-hs-star-rated-ceiling-fan",
+      "source_snippet": "Air Flow Capacity | 180 Cubic Meters Per Minute |",
+      "confidence": "high"
+    }
+  ]
+}

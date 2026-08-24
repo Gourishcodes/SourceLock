@@ -1,0 +1,132 @@
+{
+  "brand": "Frigidaire",
+  "manufacturer_name": "Frigidaire",
+  "series": null,
+  "product_type": "Dishwasher",
+  "mfr_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
+  "with_feature": null,
+  "certifications": [],
+  "classpath": "Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers",
+  "attributes": [
+    {
+      "label": "Series",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Model",
+      "value": "PDSH4816AF",
+      "uom": null,
+      "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
+      "source_snippet": "PDSH4816AF",
+      "confidence": "high"
+    },
+    {
+      "label": "Number of Wash Cycles",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Voltage Rating",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Amperage Rating",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Mounting Type",
+      "value": "Built-In",
+      "uom": null,
+      "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
+      "source_snippet": "Built-In Dishwasher",
+      "confidence": "high"
+    },
+    {
+      "label": "Plug Type",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Size",
+      "value": "24",
+      "uom": "in",
+      "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
+      "source_snippet": "24\"",
+      "confidence": "high"
+    },
+    {
+      "label": "Depth With Door Open",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Minimum Height",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Maximum Height",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Sound Level",
+      "value": "47",
+      "uom": "dBA",
+      "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
+      "source_snippet": "Sound Level 47 dBA",
+      "confidence": "high"
+    },
+    {
+      "label": "Material",
+      "value": "Stainless Steel",
+      "uom": null,
+      "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
+      "source_snippet": "Stainless Steel Tub",
+      "confidence": "high"
+    },
+    {
+      "label": "Color",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    },
+    {
+      "label": "Additional Information",
+      "value": null,
+      "uom": null,
+      "source_url": null,
+      "source_snippet": null,
+      "confidence": "none"
+    }
+  ]
+}

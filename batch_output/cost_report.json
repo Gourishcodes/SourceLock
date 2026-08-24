@@ -1,0 +1,14 @@
+{
+  "num_skus": 28,
+  "gemini_calls": 36,
+  "gemini_input_tokens": 68907,
+  "gemini_output_tokens": 33903,
+  "gemini_cost": 0.020451900000000002,
+  "tavily_calls": 36,
+  "tavily_credits": 72,
+  "tavily_cost": 0.5760000000000001,
+  "total_cost": 0.5964519,
+  "cost_per_sku": 0.021301853571428574,
+  "projected_current_volume": 3195.278035714286,
+  "projected_target_volume": 15976.39017857143
+}

@@ -1,0 +1,52 @@
+{
+  "brand": "Kichler",
+  "manufacturer_name": "Kichler",
+  "series": "Barras",
+  "product_type": "Outdoor Post Light",
+  "mfr_url": "https://www.kichler.com/products/outdoor-lighting/outdoor-post-lights/barras-post-light-59025bk",
+  "with_feature": null,
+  "certifications": [],
+  "classpath": "Home & Garden>Lighting>Outdoor Lighting>Post Lights",
+  "attributes": [
+    {
+      "label": "Finish",
+      "value": "Black",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/outdoor-lighting/outdoor-post-lights/barras-post-light-59025bk",
+      "source_snippet": "Finish:Black",
+      "confidence": "high"
+    },
+    {
+      "label": "Width",
+      "value": "8.25",
+      "uom": "in",
+      "source_url": "https://www.kichler.com/products/outdoor-lighting/outdoor-post-lights/barras-post-light-59025bk",
+      "source_snippet": "Size:8.25\" W x 23.25\" H",
+      "confidence": "high"
+    },
+    {
+      "label": "Height",
+      "value": "23.25",
+      "uom": "in",
+      "source_url": "https://www.kichler.com/products/outdoor-lighting/outdoor-post-lights/barras-post-light-59025bk",
+      "source_snippet": "Size:8.25\" W x 23.25\" H",
+      "confidence": "high"
+    },
+    {
+      "label": "Socket",
+      "value": "1 E26 (Medium)",
+      "uom": null,
+      "source_url": "https://www.kichler.com/products/outdoor-lighting/outdoor-post-lights/barras-post-light-59025bk",
+      "source_snippet": "Socket: 1 E26 (Medium)",
+      "confidence": "high"
+    },
+    {
+      "label": "Wattage",
+      "value": "150",
+      "uom": "W",
+      "source_url": "https://www.kichler.com/products/outdoor-lighting/outdoor-post-lights/barras-post-light-59025bk",
+      "source_snippet": "Wattage: 150 W",
+      "confidence": "high"
+    }
+  ]
+}
