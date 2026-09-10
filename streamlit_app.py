@@ -299,7 +299,12 @@ with tab_upload:
 
     missing_keys = [k for k in ("TAVILY_API_KEY", "GEMINI_API_KEY") if not os.environ.get(k)]
     if missing_keys:
-        st.error(f"Missing environment variable(s): {', '.join(missing_keys)}. Set up your .env file to use live enrichment.")
+        st.error(
+            f"Missing environment variable(s): {', '.join(missing_keys)}. "
+            "Running locally: add them to your .env file. "
+            "Running on Streamlit Community Cloud: add them under App settings -> Secrets instead - "
+            "there is no .env file there."
+        )
     else:
         uploaded_file = st.file_uploader("Upload a CSV", type="csv")
 

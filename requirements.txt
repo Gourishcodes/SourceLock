@@ -1,5 +1,5 @@
-tavily-python
-google-genai
+tavily-python==0.8.1
+google-genai==2.22.0
 pydantic
 python-dotenv
 playwright
