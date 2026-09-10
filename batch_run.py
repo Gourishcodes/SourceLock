@@ -395,7 +395,7 @@ BATCH_ROWS = [
 ]
 
 
-def process_row(row: dict, domain_cache: dict) -> dict:
+def process_row(row: dict, domain_cache: dict, known_categories_this_run: set[str] | None = None) -> dict:
     """Runs one row through retrieval + extraction. Returns a result dict -
     never raises, catches its own errors so one bad row can't kill the batch.
 
@@ -404,15 +404,24 @@ def process_row(row: dict, domain_cache: dict) -> dict:
     build_csv_rows and everything else downstream sees a normal, fully-
     populated row either way). This is what lets the pipeline accept a
     genuinely uploaded/dynamic dataset instead of requiring every row to
-    be hand-labeled the way BATCH_ROWS currently is."""
+    be hand-labeled the way BATCH_ROWS currently is.
+
+    known_categories_this_run: same object passed to every call across one
+    batch (caller creates it once, e.g. `set()`, before the loop) - lets
+    classify_product() reuse a category name it already minted for an
+    earlier row instead of independently inventing a synonym. Mutated in
+    place here after every successful classification, same pattern as
+    domain_cache below."""
     mpn, desc = row["mfg_part_num"], row["part_desc"]
     brand = row.get("brand")
 
     if not row.get("category") or not row.get("product_type"):
         try:
-            cat, ptype = classify_product(mpn, desc)
+            cat, ptype = classify_product(mpn, desc, known_categories_this_run=known_categories_this_run)
             print(f"  [classification] {mpn} -> category={cat!r}, product_type={ptype!r}")
             row["category"], row["product_type"] = cat, ptype
+            if known_categories_this_run is not None:
+                known_categories_this_run.add(cat)
         except Exception as e:
             print(f"  !! CLASSIFICATION ERROR on {mpn}: {e}")
             return {"row": row, "extraction": None, "sources": [], "error": f"ClassificationError: {type(e).__name__}: {e}", "note": None, "validation": None}
@@ -616,13 +625,14 @@ def print_summary(results: list[dict]):
 
 if __name__ == "__main__":
     domain_cache = {}
+    known_categories_this_run = set()
     results = []
 
     print(f"Processing {len(BATCH_ROWS)} rows...\n")
     for i, row in enumerate(BATCH_ROWS, 1):
         cat_display = row.get('category') or '(will classify live)'
         print(f"[{i}/{len(BATCH_ROWS)}] {row['mfg_part_num']} ({cat_display}, brand={row.get('brand')!r})")
-        result = process_row(row, domain_cache)
+        result = process_row(row, domain_cache, known_categories_this_run)
         results.append(result)
         # Save raw per-row JSON for later inspection
         if result["extraction"] is not None:

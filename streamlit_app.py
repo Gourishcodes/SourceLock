@@ -326,8 +326,20 @@ with tab_upload:
                 if st.button("Run Enrichment", type="primary"):
                     from batch_run import process_row, build_csv_rows
                     from style_rules import clean_brand
+                    import usage_tracker
+
+                    # Reset before this run so cost numbers reflect ONLY the
+                    # rows about to be processed - thread-local now (see
+                    # usage_tracker.py), so this also can't bleed into
+                    # another user's concurrent session on Streamlit Cloud.
+                    usage_tracker.reset_usage()
 
                     domain_cache = st.session_state.get("upload_domain_cache", {})
+                    # Same object across every row this run, so a row-1
+                    # classification of an uncategorized SKU as e.g. "Fans"
+                    # gets reused (not re-invented as "Ceiling Fans") on a
+                    # later row in the SAME upload - see classification.py.
+                    known_categories_this_run = st.session_state.get("upload_known_categories", set())
                     results = []
                     progress = st.progress(0.0, text="Starting...")
 
@@ -365,12 +377,16 @@ with tab_upload:
                                  or clean_brand(raw_row.get("DIB_Brand", "")))
                         progress.progress(i / num_to_process, text=f"Processing {mpn}...")
                         row_for_pipeline = {"mfg_part_num": mpn, "part_desc": desc, "brand": brand}
-                        result = process_row(row_for_pipeline, domain_cache)
+                        result = process_row(row_for_pipeline, domain_cache, known_categories_this_run)
                         results.append(result)
                         progress.progress((i + 1) / num_to_process, text=f"Done: {mpn}")
 
                     st.session_state["upload_results"] = results
                     st.session_state["upload_domain_cache"] = domain_cache
+                    st.session_state["upload_known_categories"] = known_categories_this_run
+
+                    from cost import compute_cost_report
+                    st.session_state["upload_cost_report"] = compute_cost_report(num_skus_processed=len(results))
                     st.success(f"Processed {len(results)} row(s) live.")
 
         if "upload_results" in st.session_state:
@@ -380,6 +396,14 @@ with tab_upload:
 
             st.markdown("---")
             st.markdown(f"### Results ({len(succeeded)} succeeded, {len(failed)} did not)")
+
+            live_cost = st.session_state.get("upload_cost_report")
+            if live_cost:
+                cc1, cc2, cc3 = st.columns(3)
+                cc1.metric("Cost this run", f"${live_cost['total_cost']:.4f}")
+                cc2.metric("Cost per SKU", f"${live_cost['cost_per_sku']:.5f}")
+                cc3.metric("Calls", f"{live_cost['gemini_calls']} Gemini / {live_cost['tavily_calls']} Tavily")
+                st.caption("Measured from this run only - reset before it started, so it can't include another session's usage.")
 
             if succeeded:
                 mpns = [r["row"]["mfg_part_num"] for r in succeeded]
